@@ -21,7 +21,6 @@ The project consists of multiple Java classes that represent the different compo
 - `Kitchen.java`: Coordinates food preparation.
 - Other files implementing additional restaurant functionalities.
 
-(Note: Each Java file contains method signatures and class structures, but the methods themselves are not fully implemented.)
 
 ## How to Run
 
